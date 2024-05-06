@@ -1,5 +1,7 @@
 # README
 
+based: https://stevepolito.design/blog/rails-authentication-from-scratch#step-11-add-unconfirmed-email-column-to-users-table
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
